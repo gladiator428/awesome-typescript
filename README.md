@@ -1,6 +1,6 @@
 # Awesome TypeScript
 
-#### -= Awesome TypeScript =- [Awesome Elasticsearch](https://github.com/dzharii/awesome-elasticsearch) →
+#### -= Awesome TypeScript =- [Awesome Elasticsearch](https://github.com/dzharii/awesome-elasticsearch)  →
 
 > A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists.
 
